@@ -43,13 +43,6 @@ I'm a passionate software developer with a keen interest in building full stack 
 
 ---
 
-## 📈 GitHub Stats
-
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj230977&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj230977&layout=compact&theme=merko)
-
----
-
 ## 📬 Let's Connect
 
 - [Portfolio Website](https://anuj230977.github.io/portfolio-website/)
