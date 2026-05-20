@@ -14,6 +14,9 @@ I'm a passionate software developer with a keen interest in building full stack 
 - [MediBridge](https://github.com/Anuj230977/medibridge):  
   A web platform for patients to book and view medical appointments.
 
+- [CSV Cleaner Tool](https://github.com/Anuj230977/csv-cleaner-tool):  
+  A Python tool that cleans messy CSV/Excel files, removes duplicates & empty rows, and generates a visual data report. Includes a one-click .exe for non-technical users.
+
 - [Portfolio Website](https://github.com/Anuj230977/portfolio-website) | [Visit Online](https://anuj230977.github.io/portfolio-website/):  
   Personal portfolio website showcasing my projects and skills.
 
