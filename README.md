@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-- 🎓 Pune, India
+- ![Location](https://img.shields.io/badge/-Pune,%20India-00f7ff?style=flat&logo=googlemaps&logoColor=white)
 - 💻 Building freelance-ready tools with Python, Java & AI
 - 🤖 Active user of Claude & Google AI Studio for real project builds
 - 📬 Reach me: **anuj1230567@gmail.com**
@@ -67,11 +67,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj230977&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj230977&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj230977&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj230977&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)</div>
 
 ---
 
