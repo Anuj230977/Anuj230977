@@ -35,7 +35,7 @@
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)---
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -85,6 +85,8 @@
 ---
 
 <div align="center">
+
+![Hacker GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anuj230977&color=00f7ff&style=flat)
 
