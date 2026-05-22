@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-- ![Location](https://img.shields.io/badge/-Pune,%20India-00f7ff?style=flat&logo=googlemaps&logoColor=white)
+- 📍 Pune,India
 - 💻 Building freelance-ready tools with Python, Java & AI
 - 🤖 Active user of Claude & Google AI Studio for real project builds
 - 📬 Reach me: **anuj1230567@gmail.com**
@@ -61,16 +61,6 @@
 | [SwiftLink](https://github.com/Anuj230977/SwiftLink) | URL shortener with real-time analytics — tracks browsers, OS, devices, referrers |
 | [MediBridge](https://github.com/Anuj230977/medibridge) | Web platform for booking and tracking medical appointments |
 | [Portfolio Website](https://anuj230977.github.io/portfolio-website/) | Personal portfolio — [Visit Live](https://anuj230977.github.io/portfolio-website/) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj230977&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj230977&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)</div>
 
 ---
 
