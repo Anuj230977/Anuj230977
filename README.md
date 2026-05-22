@@ -1,57 +1,91 @@
-# 👋 Hi, I'm Anuj!
+<div align="center">
 
-Welcome to my GitHub profile!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anuj+👋;BBA-CA+Student+%7C+Developer;Python+%7C+Java+%7C+AI+Tools;Building+real+projects+from+scratch!)
 
-I'm a passionate software developer with a keen interest in building full stack web applications, automating tasks, and solving real-world problems using technology.
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
+
+---
+
+## 👤 About Me
+
+- 🎓 **TY BBA-CA Student** — Nagpur, India
+- 💻 Building freelance-ready tools with Python, Java & AI
+- 🤖 Active user of Claude & Google AI Studio for real project builds
+- 🚀 Currently building multiple income streams — freelancing, content, passive
+- 📬 Reach me: **anuj1230567@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-- [Campus Placement Portal](https://github.com/Anuj230977/campus-placement-portal):  
-  Full stack campus placement portal built with React, Node.js, MongoDB, and TailwindCSS for students and recruiters.
+### 🐍 Python
+| Project | Description |
+|---|---|
+| [CSV & Excel Smart Cleaner](https://github.com/Anuj230977/csv-cleaner-tool) | Cleans messy CSV/Excel files, removes duplicates, generates visual PNG report. Includes one-click .exe |
+| [Sentiment Analyzer](https://github.com/Anuj230977/Sentiment-Analyzer) | NLP tool to analyze customer reviews as Positive/Negative/Neutral. Bulk CSV support + pie chart |
+| [Telegram Bot (Render)](https://github.com/Anuj230977/telegram-bot-render) | Python Telegram bot hosted on Render |
+| [Telegram Bot (Replit)](https://github.com/Anuj230977/telegram-bot-replit) | Python Telegram bot hosted on Replit |
+| [QR Code Generator](https://github.com/Anuj230977/qr-code-generator) | Generate QR codes from any user input |
+| [Python Website on Azure](https://github.com/Anuj230977/pythonwebsite) | Flask web app deployed on Microsoft Azure |
 
-- [MediBridge](https://github.com/Anuj230977/medibridge):  
-  A web platform for patients to book and view medical appointments.
+### ☕ Java
+| Project | Description |
+|---|---|
+| [Student Result System](https://github.com/Anuj230977/Student-Result-System) | Professional desktop app — MVC, MySQL, Login, Stats Dashboard, CSV Import/Export, Grade Calculator |
 
-- [CSV Cleaner Tool](https://github.com/Anuj230977/csv-cleaner-tool):  
-  A Python tool that cleans messy CSV/Excel files, removes duplicates & empty rows, and generates a visual data report. Includes a one-click .exe for non-technical users.
-
-- [Portfolio Website](https://github.com/Anuj230977/portfolio-website) | [Visit Online](https://anuj230977.github.io/portfolio-website/):  
-  Personal portfolio website showcasing my projects and skills.
-
-- [Python Website on Azure](https://github.com/Anuj230977/pythonwebsite):  
-  Web application for Azure deployment using Python and Flask.
-
-- [QR Code Generator](https://github.com/Anuj230977/qr-code-generator):  
-  Python application to generate QR codes from user input.
-
-- [Telegram Bots](https://github.com/Anuj230977/telegram-bot-render) & [on Replit](https://github.com/Anuj230977/telegram-bot-replit):  
-  Telegram bots using Python, hosted on Render & Replit.
+### 🌐 Full Stack / Web
+| Project | Description |
+|---|---|
+| [Campus Placement Portal](https://github.com/Anuj230977/campus-placement-portal) | Full stack portal for students and recruiters — React, Node.js, MongoDB, TailwindCSS |
+| [SwiftLink](https://github.com/Anuj230977/SwiftLink) | URL shortener with real-time analytics — tracks browsers, OS, devices, referrers |
+| [MediBridge](https://github.com/Anuj230977/medibridge) | Web platform for booking and tracking medical appointments |
+| [Portfolio Website](https://anuj230977.github.io/portfolio-website/) | Personal portfolio — [Visit Live](https://anuj230977.github.io/portfolio-website/) |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📊 GitHub Stats
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+<div align="center">
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj230977&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj230977&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-- [Portfolio Website](https://anuj230977.github.io/portfolio-website/)
-- [LinkedIn](https://www.linkedin.com/in/anujjadhav)
-- [Email](mailto:anuj1230567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujjadhav)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://anuj230977.github.io/portfolio-website/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anuj1230567@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anuj230977)
 
 ---
 
-_Thanks for visiting my profile! Feel free to explore my work or reach out if you’d like to collaborate!_
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Anuj230977&color=00f7ff&style=flat)
+
+*Thanks for visiting! Feel free to explore my work or reach out to collaborate!*
+
+</div>
