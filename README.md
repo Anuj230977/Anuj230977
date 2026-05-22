@@ -10,11 +10,12 @@
 
 ## 👤 About Me
 
-- 📍 Pune,India
-- 💻 Building freelance-ready tools with Python, Java & AI
-- 🤖 Active user of Claude & Google AI Studio for real project builds
+- 📍 Pune, India
+- 💻 Passionate about building real-world projects with Python, Java & AI
+- 🤖 Active user of Claude & Google AI Studio
+- 🚀 Always learning and building something new
 - 📬 Reach me: **anuj1230567@gmail.com**
-
+  
 ---
 
 ## 🛠️ Tech Stack
