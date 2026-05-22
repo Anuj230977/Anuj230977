@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anuj+👋;BBA-CA+Student+%7C+Developer;Python+%7C+Java+%7C+AI+Tools;Building+real+projects+from+scratch!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anuj+👋;Python+%7C+Java+%7C+AI+Tools;Freelance+Developer;Building+real+projects+from+scratch!)
 
 ![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -10,10 +10,9 @@
 
 ## 👤 About Me
 
-- 🎓 **TY BBA-CA Student** — Nagpur, India
+- 🎓 Pune, India
 - 💻 Building freelance-ready tools with Python, Java & AI
 - 🤖 Active user of Claude & Google AI Studio for real project builds
-- 🚀 Currently building multiple income streams — freelancing, content, passive
 - 📬 Reach me: **anuj1230567@gmail.com**
 
 ---
