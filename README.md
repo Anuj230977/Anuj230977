@@ -87,6 +87,7 @@
 <div align="center">
 
 ![Hacker GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anuj230977&color=00f7ff&style=flat)
 
 *Thanks for visiting! Feel free to explore my work or reach out to collaborate!*
